@@ -12,6 +12,19 @@ Watch the app in action:
 Download the latest APK file:
 [![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/Hamid-Raza-22/HealthTrackerApp/blob/main/Health%20App%20By%20Hamid.apk)
 
+### 📸 App Screenshots
+**Home Screen**
+![Home Screen](https://github.com/Hamid-Raza-22/HealthTrackerApp/blob/main/Home%20Screen.png)
+
+**Calendar Screen**
+![Calendar Screen](https://github.com/Hamid-Raza-22/HealthTrackerApp/blob/main/Calender%20Screen.png)
+
+**Mood Screen**
+![Mood Screen](https://github.com/Hamid-Raza-22/HealthTrackerApp/blob/main/Mood%20Screen.png)
+
+**Training Calendar Screen**
+![Training Calendar Screen](https://github.com/Hamid-Raza-22/HealthTrackerApp/blob/main/Training%20Calender%20Screen.png)
+
 ## Features
 
 - **Home Screen**: Track calories, weight, and hydration with interactive widgets
