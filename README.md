@@ -4,15 +4,15 @@ A comprehensive health and fitness tracking application built with Flutter and G
 
 ## Demo & Download
 
-### 📱 Demo Video
+### Demo Video
 Watch the app in action:
 [![Watch Demo Video](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1amUU_A8bIrqjy8pkHr34kqJ43Z3yPR7Y/view)
 
-### 📲 Download APK
+### Download APK
 Download the latest APK file:
 [![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/Hamid-Raza-22/HealthTrackerApp/blob/main/Health%20App%20By%20Hamid.apk)
 
-### 📸 App Screenshots
+### App Screenshots
 **Home Screen**
 ![Home Screen](https://github.com/Hamid-Raza-22/HealthTrackerApp/blob/main/Home%20Screen.png)
 
