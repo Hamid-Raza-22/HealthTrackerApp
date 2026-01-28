@@ -2,6 +2,16 @@
 
 A comprehensive health and fitness tracking application built with Flutter and GetX state management.
 
+## Demo & Download
+
+### 📱 Demo Video
+Watch the app in action:
+[![Watch Demo Video](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1amUU_A8bIrqjy8pkHr34kqJ43Z3yPR7Y/view)
+
+### 📲 Download APK
+Download the latest APK file:
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/Hamid-Raza-22/HealthTrackerApp/blob/main/Health%20App%20By%20Hamid.apk)
+
 ## Features
 
 - **Home Screen**: Track calories, weight, and hydration with interactive widgets
