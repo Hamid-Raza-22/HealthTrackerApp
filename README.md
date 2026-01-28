@@ -19,11 +19,12 @@ Download the latest APK file:
 **Calendar Screen**
 ![Calendar Screen](https://github.com/Hamid-Raza-22/HealthTrackerApp/blob/main/Calender%20Screen.png)
 
+**Training Calendar Screen**
+![Training Calendar Screen](https://github.com/Hamid-Raza-22/HealthTrackerApp/blob/main/Training%20Calender%20Screen.png)
+
 **Mood Screen**
 ![Mood Screen](https://github.com/Hamid-Raza-22/HealthTrackerApp/blob/main/Mood%20Screen.png)
 
-**Training Calendar Screen**
-![Training Calendar Screen](https://github.com/Hamid-Raza-22/HealthTrackerApp/blob/main/Training%20Calender%20Screen.png)
 
 ## Features
 
