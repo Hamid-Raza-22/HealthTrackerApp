@@ -89,20 +89,29 @@ lib/
 ```
 ### 📝 Important Note
 
+> **Intellectual Property Protection Notice**
+
 The `lib/` folder containing the core application code has been intentionally excluded from this repository for intellectual property protection and security reasons. This is a precautionary measure to prevent unauthorized use of proprietary code, which unfortunately occurs in some hiring scenarios where candidates complete technical tasks without proper compensation or employment.
 
+#### 🔐 Code Access Conditions
+
 **Access to the complete source code will be granted upon:**
-- Formal employment agreement with the company
-- Successful completion of the hiring process with fair compensation
-- Mutual agreement on project terms and conditions
+- ✅ Formal employment agreement with the company
+- ✅ Successful completion of the hiring process with fair compensation  
+- ✅ Mutual agreement on project terms and conditions
+
+#### 🤝 Our Commitment
 
 This approach ensures both the protection of intellectual property and maintains professional integrity in the development community. We believe in fair compensation for quality work and transparent hiring practices.
 
-Thank you for your understanding.
-Regards,
-Engr. Hamid Raza
-hamidraza.engr@gmail.com
-+92313148445
+---
+
+**Thank you for your understanding.**
+
+*Regards,*  
+**Engr. Hamid Raza**  
+📧 hamidraza.engr@gmail.com  
+📱 +92313148445
 
 ---
 
