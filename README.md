@@ -87,33 +87,6 @@ lib/
 │       └── home_binding.dart
 └── main.dart
 ```
-### 📝 Important Note
-
-> **Intellectual Property Protection Notice**
-
-The `lib/` folder containing the core application code has been intentionally excluded from this repository for intellectual property protection and security reasons. This is a precautionary measure to prevent unauthorized use of proprietary code, which unfortunately occurs in some hiring scenarios where candidates complete technical tasks without proper compensation or employment.
-
-#### 🔐 Code Access Conditions
-
-**Access to the complete source code will be granted upon:**
-- ✅ Formal employment agreement with the company
-- ✅ Successful completion of the hiring process with fair compensation  
-- ✅ Mutual agreement on project terms and conditions
-
-#### 🤝 Our Commitment
-
-This approach ensures both the protection of intellectual property and maintains professional integrity in the development community. We believe in fair compensation for quality work and transparent hiring practices.
-
----
-
-**Thank you for your understanding.**
-
-*Regards,*  
-**Engr. Hamid Raza**  
-📧 hamidraza.engr@gmail.com  
-📱 +92313148445
-
----
 
 ## Getting Started
 
@@ -122,37 +95,6 @@ This approach ensures both the protection of intellectual property and maintains
 - Flutter SDK (>= 3.0.0)
 - Dart SDK (>= 2.17.0)
 - Android Studio / VS Code with Flutter extensions
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone <repository-url>
-cd hamid_test_task
-```
-
-2. Install dependencies:
-```bash
-flutter pub get
-```
-
-3. Run the app:
-```bash
-flutter run
-```
-
-### Build Commands
-
-```bash
-# Debug build
-flutter build apk --debug
-
-# Release build
-flutter build apk --release
-
-# iOS build
-flutter build ios --release
-```
 
 ## Key Features Implementation
 
@@ -207,5 +149,33 @@ Update `pubspec.yaml` to include asset paths if needed.
 3. Maintain one class per file principle
 4. Ensure theme compatibility for all new components
 5. Test on both light and dark themes
+
+### 📝 Important Note
+
+> **Intellectual Property Protection Notice**
+
+The `lib/` folder containing the core application code has been intentionally excluded from this repository for intellectual property protection and security reasons. This is a precautionary measure to prevent unauthorized use of proprietary code, which unfortunately occurs in some hiring scenarios where candidates complete technical tasks without proper compensation or employment.
+
+#### Code Access Conditions
+
+**Access to the complete source code will be granted upon:**
+- Formal employment agreement with the company
+- Successful completion of the hiring process with fair compensation  
+- Mutual agreement on project terms and conditions
+
+#### Our Commitment
+
+This approach ensures both the protection of intellectual property and maintains professional integrity in the development community. We believe in fair compensation for quality work and transparent hiring practices.
+
+---
+
+**Thank you for your understanding.**
+
+*Regards,*  
+**Engr. Hamid Raza**  
+📧 hamidraza.engr@gmail.com  
+📱 +92313148445
+
+---
 
 
